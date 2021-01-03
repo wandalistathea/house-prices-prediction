@@ -11,3 +11,5 @@ Langkah-langkah yang saya lakukan adalah sebagai berikut:
 5. Feature Engineering yaitu mengatasi missing value, mengatasi variabel kategorik, dan melakukan penskalaan data
 6. Target Engineering dengan menormalisasikan data
 7. Modelling dengan menggunakan Random Forest sekaligus evalusi model menggunakan Root Mean Square Error (RMSE)
+
+Terdapat artikel yang saya buat: 
