@@ -1,6 +1,5 @@
 # house-prices-prediction
-Kaggle: House Prices - Advanced Regression Techniques
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
+Kaggle: House Prices - Advanced Regression Techniques (https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview)
 
 Data ini berisi 79 variabel penjelas (fitur) untuk memprediksi harga jual setiap rumah (variabel "SalePrice").
 
