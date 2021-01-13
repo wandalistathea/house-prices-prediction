@@ -12,4 +12,4 @@ Langkah-langkah yang saya lakukan adalah sebagai berikut:
 6. Target Engineering dengan menormalisasikan data
 7. Modelling dengan menggunakan Random Forest sekaligus evalusi model menggunakan Root Mean Square Error (RMSE)
 
-Terdapat artikel yang saya buat: 
+Terdapat artikel yang saya buat: https://wandalistathea.medium.com/prediksi-harga-jual-rumah-menggunakan-random-forest-regression-python-58e11e0ba504
